@@ -32,10 +32,4 @@ As classes foram estruturadas para evitar a duplicação de código. Métodos ba
 * **Conceitos:** POO (Programação Orientada a Objetos)
 * **Padrão de Projeto:** Abstract Factory
 
----
-
-## 🛠️ Como executar
-
-1. Clone o repositório:
-   ```bash
    git clone [https://github.com/FelipeVieira4/Banco_Futuro.git](https://github.com/FelipeVieira4/Banco_Futuro.git)
