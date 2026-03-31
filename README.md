@@ -1,6 +1,5 @@
 # 🏦 Banco Futuro
 
-[![Senai](https://img.shields.io/badge/SENAI-Desenvolvimento%20de%20Sistemas-red)](https://www.sp.senai.br/)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 
 Projeto desenvolvido durante o curso de **Desenvolvimento de Sistemas no SENAI**, com o objetivo de aplicar conceitos avançados de Programação Orientada a Objetos (POO) e padrões de projeto.
